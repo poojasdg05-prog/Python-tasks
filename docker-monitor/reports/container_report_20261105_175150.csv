@@ -1,0 +1,3 @@
+Name,Container_ID,Image,Status,Running_Duration,Category
+demo-stopped,c673bd84d2e1,alpine:latest,exited,N/A,STOPPED
+demo-running,2db8bece2bf9,alpine:latest,running,0h 9m 11s,RUNNING

@@ -1,0 +1,3 @@
+2026-11-05 17:51:50,057 | INFO | Connected to local Docker Engine
+2026-11-05 17:51:50,085 | INFO | CSV report generated: /workspaces/Python-tasks/docker-monitor/reports/container_report_20261105_175150.csv
+2026-11-05 17:52:02,539 | INFO | Started container: demo-stopped
